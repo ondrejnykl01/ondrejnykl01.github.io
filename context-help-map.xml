@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="alpine_skiing_stem"
+               path="Alpine_skiing/stem_topics/alpine_skiing_stem.html"/>
+   <appContext helpID="ski_slope_concept"
+               path="Alpine_skiing/topics/ski_slope_concept.html"/>
+   <appContext helpID="ski_slope_glossary"
+               path="Alpine_skiing/topics/ski_slope_concept.html#ski_slope_glossary"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="how_to_improve_your_curving"
+               path="Alpine_skiing/topics/how_to_improve_your_curving.html"/>
+   <appContext helpID="differences_between_slalom_and_giant_slalom"
+               path="Alpine_skiing/topics/differences_between_slalom_and_giant_slalom.html"/>
+   <appContext helpID="differences_between_giant_slalom_and_super_g"
+               path="Alpine_skiing/topics/differences_between_giant_slalom_and_super_g.html"/>
+   <appContext helpID="differences_between_super_g_and_downhill"
+               path="Alpine_skiing/topics/differences_between_super_g_and_downhill.html"/>
+   <appContext helpID="how_to_prepare_for_the_world_cup_season"
+               path="Alpine_skiing/topics/how_to_prepare_for_the_world_cup_season.html"/>
+   <appContext helpID="cross_country_skiing_stem"
+               path="Cross_country_skiing/stem_topics/cross_country_skiing_stem.html"/>
+   <appContext helpID="what_is_cross_country_skiing_about"
+               path="Cross_country_skiing/topics/what_is_cross_country_skiing_about.html"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="ski_track"
+               path="Cross_country_skiing/topics/ski_track_concept.html"/>
+   <appContext helpID="skate_ski_track_concept"
+               path="Cross_country_skiing/topics/skate_ski_track_concept.html"/>
+   <appContext helpID="classic_ski_track"
+               path="Cross_country_skiing/topics/classic_ski_track.html"/>
+   <appContext helpID="skate_technique_concept"
+               path="Cross_country_skiing/topics/skate_technique_concept.html"/>
+   <appContext helpID="how_to_improve_your_slide_classic"
+               path="Cross_country_skiing/topics/how_to_improve_your_slide_classic.html"/>
+   <appContext helpID="ski_fashion"
+               path="Cross_country_skiing/topics/ski_fashion.html"/>
+   <appContext helpID="how_to_improve_your_slide_skate"
+               path="Cross_country_skiing/topics/how_to_improve_your_slide_skate.html"/>
+   <appContext helpID="how_to_soupaz"
+               path="Cross_country_skiing/topics/how_to_soupaz.html"/>
+   <appContext helpID="advices_of_standa_rezac"
+               path="Cross_country_skiing/topics/advices_of_standa_rezac.html"/>
+   <appContext helpID="ski_jumping_stem"
+               path="Ski_jumping/stem_topics/ski_jumping_stem.html"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="ski_jump_concept" path="Ski_jumping/ski_jump_concept.html"/>
+   <appContext helpID="take_off_cocnept" path="Ski_jumping/take_off_cocnept.html"/>
+   <appContext helpID="flight" path="Ski_jumping/flight.html"/>
+   <appContext helpID="landing_concept" path="Ski_jumping/landing_concept.html"/>
+   <appContext helpID="Chunk1270811866" path="Chunk1270811866.html"/>
+   <appContext helpID="funicular_glossary"
+               path="Chunk1270811866.html#funicular_glossary"/>
+</map>
